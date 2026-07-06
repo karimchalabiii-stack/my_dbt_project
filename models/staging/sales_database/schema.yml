@@ -105,3 +105,7 @@ models:
         tests:
             - unique
             - not_null
+
+    - name: stg_sales_database__account_manager_region_mapping
+      description: "This model provides a mapping of account managers to states from a Google Sheets source."
+
