@@ -107,6 +107,4 @@ models:
             - not_null
 
 
- - name: stg_sales_database__account_manager_region_mapping
-   description: "This model contains region mapping for manager"
     
